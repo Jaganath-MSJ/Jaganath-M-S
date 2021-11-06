@@ -1,3 +1,3 @@
-#Hi, I am Jaganath M S
+# Hi, I am Jaganath M S
 
-#A Passionate Web Developer
+<b>A Passionate Web Developer</b>
