@@ -1,3 +1,3 @@
-# <center>Hi, I am Jaganath M S</center>
+# <center>Hi, I'm Jaganath M S
 
-<center><b>A Passionate Web Developer</b></center>
+<center><b>A Passionate Web Developer
